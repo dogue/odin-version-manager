@@ -1,5 +1,10 @@
 # Odin Version Manager
 
+> [!IMPORTANT]
+> OVM is no longer being maintained. I recommend installing Odin by cloning the repo and building it yourself,
+> per the official docs. If you would like to take ownership of OVM and continue its development/maintenance,
+> you may open an issue here.
+
 Odin Version Manager (ovm) is a tool for managing your Odin installs. With Odin
 being pre-1.0 the closest thing to a "regular release" are the monthly releases,
 and those are currently bugged on Linux. While OVM does require that you have
